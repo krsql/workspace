@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
+  "version": "0.3.6",
   "url": "https://github.com/krsql/workspace/releases/download/beta/KRSQ.Workspace.exe",
-  "sha256": "01CC3C0809CFAC5E821B8A8F13A6FB78A898E8D00D81362092134ACCF2C1C720",
+  "sha256": "AB2C33F64D5B78B49D29B700CEE51ED95F410D408033AF68F429D8FB87F4FE73",
   "notes": "Обновление KRSQ Workspace",
   "mandatory": false
 }
